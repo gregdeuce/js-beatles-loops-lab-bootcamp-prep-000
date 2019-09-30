@@ -16,7 +16,7 @@ function johnLennonFacts(array) {
     "He was never a vegetarian",
     "He was a choir boy and boy scout",
     "He hated the sound of his own voice"];
-  return johnLennonFacts;
+  return facts;
 } while (johnLennonFacts() > 0) {
-  console.log(facts++ + "!!!");
+  console.log("johnLennonFacts++"" + "!!!");
 }
