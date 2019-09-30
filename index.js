@@ -20,3 +20,9 @@ function johnLennonFacts(array) {
 } while (johnLennonFacts() > 0) {
   console.log("johnLennonFacts()" + "!!!");
 }
+
+function iLoveTheBeatles(number) {
+  var arr = [];
+} do 
+    console.log("I love the Beatles!")
+    { while()
