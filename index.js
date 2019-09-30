@@ -23,19 +23,10 @@ function johnLennonFacts(array) {
 
 
 function johnLennonFacts(array) {
-//   var i = 0;
-//   while (i < array.length) {
-//     array[i] = array[i] + "!!!";
-//     i++;
-//   }
-//   return array;
-// }
-
-function iLoveTheBeatles(number) {
-  var arr = [];
-  return ["number - 15"];
-} do {
-    console.log("I love the Beatles!");
-    } while(iLoveTheBeatles() < 15); {
-      console.log(iLoveTheBeatles(number++));
-    }
+  var i = 0
+  while (i < array.length) {
+    array[i] += '!!!';
+    i++;
+  }
+  return array;
+}
