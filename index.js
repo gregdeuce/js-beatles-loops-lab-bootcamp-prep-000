@@ -25,4 +25,6 @@ function iLoveTheBeatles(number) {
   var arr = [];
 } do {
     console.log("I love the Beatles!");
-    } while(iLoveTheBeatles() < 15)
+    } while(iLoveTheBeatles() < 15) {
+      console.log()
+    }
