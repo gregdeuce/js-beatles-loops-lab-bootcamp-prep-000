@@ -21,6 +21,16 @@ function johnLennonFacts(array) {
   console.log("johnLennonFacts()" + "!!!");
 }
 
+
+function johnLennonFacts(array) {
+//   var i = 0;
+//   while (i < array.length) {
+//     array[i] = array[i] + "!!!";
+//     i++;
+//   }
+//   return array;
+// }
+
 function iLoveTheBeatles(number) {
   var arr = [];
   return ["number - 15"];
